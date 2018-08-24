@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope_design_access">
+    <sys_scope_design_access action="INSERT_OR_UPDATE">
+        <source_scope display_value="embudo">c6f9f4360f8c23002eb74f8ce1050e0f</source_scope>
+        <sys_class_name>sys_scope_design_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-24 12:44:19</sys_created_on>
+        <sys_id>4d25cdfa0f8c23002eb74f8ce1050edf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ed3d3da2b92013006517ce7df7ee46ea</sys_name>
+        <sys_package display_value="embudo" source="x_205490_embudo">c6f9f4360f8c23002eb74f8ce1050e0f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="embudo">c6f9f4360f8c23002eb74f8ce1050e0f</sys_scope>
+        <sys_update_name>sys_scope_design_access_4d25cdfa0f8c23002eb74f8ce1050edf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-24 12:44:19</sys_updated_on>
+        <target_package display_value="AngularJS Framework" source="com.glide.ui.angular">ed3d3da2b92013006517ce7df7ee46ea</target_package>
+    </sys_scope_design_access>
+</record_update>
